@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="channel_voice_name">JARVIS Voice Core</string>
+    <string name="channel_wake_name">JARVIS Wake Word Detector</string>
+</resources>
